@@ -4,7 +4,7 @@ A Python command-line application that connects to a PostgreSQL database and per
 
 **Author:** Adonay Ganzasabwa
 
-**Video demonstration:** _ADD YOUR VIDEO LINK HERE_
+**Video demonstration:** _https://youtu.be/soIcInL-ARw_
 
 ## Repository Structure
 
